@@ -5,13 +5,13 @@ import LoginPage from "./features/auth/pages/LoginPage";
 import AppHome from "./pages/AppHome";
 
 
-function Placeholder({ label }: { label: string }) {
-  return (
-    <div className="grid min-h-screen place-items-center bg-black text-white">
-      <h1 className="text-2xl">{label}</h1>
-    </div>
-  );
-}
+// function Placeholder({ label }: { label: string }) {
+//   return (
+//     <div className="grid min-h-screen place-items-center bg-black text-white">
+//       <h1 className="text-2xl">{label}</h1>
+//     </div>
+//   );
+// }
 
 export default function App() {
   return (
